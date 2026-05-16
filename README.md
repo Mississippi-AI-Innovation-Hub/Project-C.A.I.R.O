@@ -372,4 +372,4 @@ MIT License — see [LICENSE](LICENSE)
 
 *Faculty advisors: Shelly, Hollis*
 *Mississippi AI Innovation Hub · Mississippi ITS / MDA*
-*Project period: March 5 – May 5, 2026 · Demo: May 5, 2026 · Closeout: May 11, 2026*
+*Project period: March 5 – May 5, 2026 · Demo: May 5, 2026 · Closeout: May 15, 2026*
