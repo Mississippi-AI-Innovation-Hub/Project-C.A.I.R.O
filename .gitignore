@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+agent_backend/__pycache__/
+agents/agent_backend/__pycache__/
+tools/__pycache__/
+tools/ssl_checker/__pycache__/
+infra/__pycache__/
+
+# Environment / secrets — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Private key and certificate material — NEVER commit
+*.key
+*.pem
+*.pfx
+
+# Node / Frontend
+node_modules/
+dist/
+.cache/
+
+# Test output files
+*_test_output.txt
+api_test_output.txt
+
+# Generated certificates, keys, CSRs — contain private key material
+generated_certificates/keys/
+generated_certificates/csrs/
+generated_certificates/ca/
+generated_certificates/issued_certs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local agent/editor state (do not commit)
+.claude/
+
+# Hub closeout Word submission (fill locally; not part of source repo)
+*.docx
+Innovation Hub PoC Closeout Document*.docx
+
+# Runtime sentinel files (written by api_bridge.py — change every run)
+.last_startup_alert
+.last_weekly_report
