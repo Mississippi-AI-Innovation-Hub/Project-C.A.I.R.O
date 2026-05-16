@@ -370,6 +370,7 @@ MIT License — see [LICENSE](LICENSE)
 - **Nezha Amine** — Cloud & Automation Engineering, Mississippi State University
 - **Cedric Roberson** — AI Systems & Data Processing, Mississippi State University
 
-*Faculty advisors: Shelly, Hollis*
+*Mentors: Hollis Shelly, Kiona Johnson, Benjamin Graham, Shelley Thompson*
 *Mississippi AI Innovation Hub · Mississippi ITS / MDA*
-*Project period: March 5 – May 5, 2026 · Demo: May 5, 2026 · Closeout: May 15, 2026*
+*Project period: March 16 – May 5, 2026 *
+
